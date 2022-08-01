@@ -1,3 +1,14 @@
+# Android device tree for Xiaomi 21051182G (nabu)
+
+```
+#
+# Copyright (C) 2022 The LineageOS Project
+# Copyright (C) 2022 bm0x (Rafael Méndez)
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
+
 ![Pad 5](https://andro4all.com/hero/2021/10/Diseno-de-la-Xiaomi-Pad-5.jpg?width=1440&aspect_ratio=19:10 "Pad 5")
 =====================================================
 Basic   | Specs
@@ -11,18 +22,6 @@ OS      | Android 11
 Battery | 8720 mAh (non-removable)
 Display |  11" (2560 x 1600 px) IPS LCD WQHD+
 Release Date | 2021, August
-
-# Android device tree for Xiaomi 21051182G (nabu)
-
-```
-#
-# Copyright (C) 2022 The LineageOS Project
-# Copyright (C) 2022 bm0x (Rafael Méndez)
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
-
 
 # EXTREMELY UNSTABLE REPOSITORY
 
