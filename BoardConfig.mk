@@ -11,6 +11,9 @@ DEVICE_PATH := device/xiaomi/nabu
 
 BUILD_BROKEN_DUP_RULES := true
 
+# Board
+TARGET_BOOTLOADER_BOARD_NAME := nabu
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := nabu
 
