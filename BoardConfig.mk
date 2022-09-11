@@ -38,7 +38,7 @@ TARGET_KERNEL_SOURCE := kernel/xiaomi/nabu
 TARGET_KERNEL_CONFIG := nabu_user_defconfig
 else
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8150-legacy
-TARGET_KERNEL_CONFIG := vendor/sm8150-perf_defconfig vendor/xiaomi/sm8150-common.config vendor/xiaomi/nabu.config
+TARGET_KERNEL_CONFIG += vendor/xiaomi/nabu.config
 endif
 
 # Init
